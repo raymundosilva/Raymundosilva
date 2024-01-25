@@ -7,7 +7,6 @@
 <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23c16a75&size=45&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Wendel%3BI%27m+a+Backend+Developer%3BWelcome%21+%3A%29&font=Monaco)](https://git.io/typing-svg)
 
 
 
@@ -80,11 +79,11 @@
 <h2 style="color: #ba6771;">Connect with me 👇</h2>
 
 <p align="center">
-  <a href="https://discordapp.com/users/last#6130"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/discord.png" alt="Discord"/></a>
-  <a href="https://www.instagram.com/wendellastwa/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" alt="Instagram"/></a>
-  <a href="mailto:wendelalvesj@hotmail.com"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/email.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/wendel-alves-b0b5332a0/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin"/></a>
-  <a href="https://t.me/Lasstll"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/telegram.png" alt="Telegram"/></a>
+  <a href="https://discordapp.com/users/last#6130"><img src="https://raw.githubusercontent.com/raymundosilva/raymundosilva/main/img/discord.png" alt="Discord"/></a>
+  <a href="https://www.instagram.com/mundo_sillva/"><img src="https://raw.githubusercontent.com/raymundosilva/raymundosilva/main/img/instagram.png" alt="Instagram"/></a>
+  <a href="mailto:rmatos320@gmail.com"><img src="https://raw.githubusercontent.com/raymundosilva/raymundosilva/main/img/email.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/raimundo-n-ferreira-da-silva-a99453a3/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin"/></a>
+  <a href="https://t.me/Lasstll"><img src="https://raw.githubusercontent.com/raymundosilva/raymundosilva/main/img/telegram.png" alt="Telegram"/></a>
 </p>
 
 <h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>
