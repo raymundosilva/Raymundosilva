@@ -36,13 +36,13 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python3">
   </a>
   <a href="https://www.djangoproject.com/">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Django">
   </a>
   <a href="https://docs.python.org/3/library/tkinter.html">
     <img src="https://img.shields.io/badge/Tkinter-FFD800?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
   </a>
   <a href="https://www.qt.io/">
-    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="QT">
+    <img src="https://img.shields.io/badge/Plataforma-Windows-brightgreen.svg" alt="QT">
   </a>
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
