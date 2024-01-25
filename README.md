@@ -81,4 +81,4 @@
 
 <br>
 
-[![Wendel Alves's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wendellast&bg_color=170f0c&color=ba6771&line=b38c7f&point=c16a75&area=true&hide_border=true)](https://github.com/wendellast)
+[![Rai Silva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raymundosilva&bg_color=170f0c&color=ba6771&line=b38c7f&point=c16a75&area=true&hide_border=true)](https://github.com/raymundosilva)
