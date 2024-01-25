@@ -68,15 +68,15 @@
   <a href="https://discordapp.com/users/mundo#7844"><img src="https://raw.githubusercontent.com/raymundosilva/raymundosilva/main/img/discord.png" alt="Discord"/></a>
   <a href="https://www.instagram.com/mundo_sillva/"><img src="https://raw.githubusercontent.com/raymundosilva/raymundosilva/main/img/instagram.png" alt="Instagram"/></a>
   <a href="mailto:rmatos320@gmail.com"><img src="https://raw.githubusercontent.com/raymundosilva/raymundosilva/main/img/email.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/raimundo-n-ferreira-da-silva-a99453a3/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin"/></a>
+  <a href="https://www.linkedin.com/in/raimundo-n-ferreira-da-silva-a99453a3/"><img src="https://raw.githubusercontent.com/raymundosilva/raymundosilva/main/img/linkedin.png" alt="Linkedin"/></a>
   <a href="https://t.me/rais1lv4"><img src="https://raw.githubusercontent.com/raymundosilva/raymundosilva/main/img/telegram.png" alt="Telegram"/></a>
 </p>
 
 <h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>
 
 <div align="center">
-  <a  href="https://portfolio-nine-lovat-40.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" target="_blank" alt="Portfolio"></a>
-  <a href="https://wendellast2a.medium.com/" target="__blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/redescoail" target="__blank"></a>
+  <a  href="https://#/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" target="_blank" alt="Portfolio"></a>
+  <a href="#/" target="__blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/redescoail" target="__blank"></a>
 </div>
 
 <br>
