@@ -35,23 +35,23 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python3">
   </a>
-  <a href="https://www.djangoproject.com/">
-    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Django">
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">
+    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
   </a>
-  <a href="https://docs.python.org/3/library/tkinter.html">
-    <img src="https://img.shields.io/badge/Tkinter-FFD800?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
+  <a href="https://www.r-project.org/">
+    <img src="https://img.shields.io/badge/Linguagem-R-brightgreen.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
   </a>
-  <a href="https://www.qt.io/">
-    <img src="https://img.shields.io/badge/Plataforma-Windows-brightgreen.svg" alt="QT">
+  <a href="https://www.microsoft.com/">
+    <img src="https://img.shields.io/badge/Windows-brightgreen.svg?style=for-the-badge&logo=windows&logoColor=white">
   </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <a href="https://app.powerbi.com/">
+    <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=power-bi&logoColor=FFD800">
   </a>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linux.org/">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <a href="https://jupyter.org/">
+    <img src="https://img.shields.io/badge/Jupyter-Notebook-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   </a>
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-27338e?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
