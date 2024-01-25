@@ -7,12 +7,12 @@
 <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
 <br>
 
-
+# Hello There 👋🏽, I'm Rai Silva 👨🏽‍💻
 
 
 <h2  style="color: #ba6771;">Overview 👉</h2>
 
-<p style="color: #b38c7f;">I'm a backend software developer with extensive experience in the field. I love to create and innovate in all aspects of a project.</p>
+<p style="color: #b38c7f;">Hi, I'm a beginner Data Scientist who loves exploring and extracting insights from large data sets. I'm always looking to learn new techniques and tools to improve my skills and solve real problems with data.</p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"I love connecting with different people! So, if you want to say hi, I'll be happy to get to know you better!"</b></em>
 
