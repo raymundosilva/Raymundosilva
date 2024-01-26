@@ -16,10 +16,10 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"I love connecting with different people! So, if you want to say hi, I'll be happy to get to know you better!"</b></em>
 
-<div align="left" >
+<div>
   <a href="https://github.com/raymundosilva">
-    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=raymundosilva&show_icons=true&theme=dark"/>
-  </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raymundosilva&show_icons=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymundosilva&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <br><br>
