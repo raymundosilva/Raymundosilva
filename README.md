@@ -20,6 +20,7 @@
   <a href="https://github.com/raymundosilva">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raymundosilva&show_icons=true&theme=dark"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymundosilva&layout=compact&langs_count=16&theme=dark"/>
+  </a>
 </div>
 
 <br><br>
