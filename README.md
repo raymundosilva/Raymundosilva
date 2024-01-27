@@ -25,15 +25,6 @@
   </a>
 </div>
 
-<div align="center" >
-  <a href="https://github.com/raymundosilva">
-    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=raymundosilva&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/raymundosilva"></a>
-  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymundosilva&layout=compact&langs_count=7&theme=date_night"/>
-</div>
-
-
 <br><br>
 
 <h2 style="color: #ba6771;">Skills 🚀</h2>
