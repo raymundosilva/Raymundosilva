@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
 <br>
 
-# Hello There 👋🏽, I'm Rai Silva 👨🏽‍💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%11c33a20&size=45&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Rai%3BI%27m+a+Data+Scientist%3BWelcome%21+%3A%29&font=Monaco)](https://git.io/typing-svg)
 
 
 <h2  style="color: #ba6771;">Overview 👉</h2>
@@ -18,11 +18,19 @@
 
 <div style="display: flex;">
   <a href="https://github.com/raymundosilva" style="flex: 1;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raymundosilva&show_icons=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raymundosilva&show_icons=true&theme=dark&include_all_commits=true"/>
   </a>
   <a href="https://github.com/raymundosilva" style="flex: 1;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymundosilva&layout=compact&langs_count=16&theme=dark"/>
   </a>
+</div>
+
+<div align="center" >
+  <a href="https://github.com/raymundosilva">
+    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=raymundosilva&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/raymundosilva"></a>
+  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymundosilva&layout=compact&langs_count=7&theme=date_night"/>
 </div>
 
 
