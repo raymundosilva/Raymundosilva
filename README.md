@@ -16,14 +16,14 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"I love connecting with different people! So, if you want to say hi, I'll be happy to get to know you better!"</b></em>
 
-<div style="display: flex;">
-  <a href="https://github.com/raymundosilva" style="flex: 1;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raymundosilva&show_icons=true&theme=transparent"/>
+<div align="center" >
+  <a href="https://github.com/raymundosilva">
+    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=raymundosilva&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/raymundosilva" style="flex: 1;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymundosilva&layout=compact&langs_count=16&theme=transparent"/>
-  </a>
+  <a href="https://github.com/raymundosilva"></a>
+  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymundosilva&layout=compact&langs_count=7&theme=date_night"/>
 </div>
+
 
 <br><br>
 
