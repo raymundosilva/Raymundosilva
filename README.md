@@ -18,10 +18,10 @@
 
 <div style="display: flex;">
   <a href="https://github.com/raymundosilva" style="flex: 1;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raymundosilva&show_icons=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raymundosilva&show_icons=true&theme=transparent"/>
   </a>
   <a href="https://github.com/raymundosilva" style="flex: 1;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymundosilva&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymundosilva&layout=compact&langs_count=16&theme=transparent"/>
   </a>
 </div>
 
