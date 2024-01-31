@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   </a>
   <a href="https://streamlit.io/">
-    <img src="https://img.shields.io/badge/Streamlit-FF4F00?style=for-the-badge&logo=streamlit&logoColor=#3d060b" alt="Streamlit">
+    <img src="https://img.shields.io/badge/Streamlit-FF4F00?style=for-the-badge&logo=streamlit&logoColor=3D060B" alt="Streamlit">
   </a>
   
 </p>
