@@ -60,6 +60,9 @@
   <a href="https://pandas.pydata.org/">
     <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   </a>
+  <a href="https://streamlit.io/">
+    <img src="https://img.shields.io/badge/Streamlit-FF4F00?style=for-the-badge&logo=streamlit&logoColor=FFD800" alt="Streamlit">
+  </a>
   
 </p>
 
